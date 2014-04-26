@@ -1,0 +1,144 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+body {
+margin:0 auto;
+padding:0;
+font:78% Trebuchet MS, Arial, Helvetica, sans-serif;
+background-color:rgb(182,224,150);
+color:#333333;
+}
+
+a {
+text-decoration:none;
+color:rgb(139,206,89);
+}
+
+a:hover {
+text-decoration:underline;
+color:rgb(84,141,41);
+}
+
+a img {
+border:0;
+}
+p {
+margin:0 0 16px 0;
+}
+
+#content {
+background-color:#ffffff;
+color:#333333;
+margin:0 auto;
+padding:1px 5px;
+width:750px;
+border: 1px solid rgb(139,206,89);
+}
+
+#header {
+color:#ffffff;
+background:#ffffff url(head.jpg) bottom left no-repeat;
+height:200px;
+margin:0 0 10px 0;
+padding:0px;
+}
+
+
+#header h1 {
+font-size:40px;
+float:left;
+font-weight:normal;
+letter-spacing:-2px;
+margin-left:10px;
+}
+
+
+
+
+#header a{
+color: #ffffff;
+}
+#header a:hover{
+color: rgb(182,224,150);
+
+}
+#page h2{
+font-size:1.35em;
+font-weight:normal;
+}
+
+#header h1 a,#header h1 a:hover {
+padding:0;
+}
+
+#header em{
+font-size:0.6em;
+font-style:normal;
+letter-spacing:2px;
+}
+
+
+
+
+
+#Page h3  {
+color: #9b660b;
+font-size: 60px;
+line-height: 15px;
+	width: 480px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+
+#Page h4  {
+color: #9b660b;
+font-size: 50px;
+line-height: 15px;
+	width: 480px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+
+#Page h5 {
+color: #9b660b;
+font-size: 40px;
+line-height: 15px;
+	width: 480px;
+	margin: 0px auto;
+	text-align: left;
+}
+
+
+#top {
+font-size:1.2em;
+margin:5px;
+color:#000;
+text-align:right;
+}
+#left
+{
+margin:5px;
+font-size:1.1em;
+float:left;
+}
+
+
+#page {
+margin:10px 0 100px 50px;
+padding:0;
+line-height:2em;
+text-align:left;
+}
+
+
+#foot{
+clear:both;
+margin:0 auto;
+padding:8px 0;
+border-top:1px solid rgb(139,206,89);
+width:750px;
+text-align:center;
+color:#555555;
+background-color:#ffffff;
+font-size:0.9em;
+}
